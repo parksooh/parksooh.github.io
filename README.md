@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+# Business Jekyll Theme
 
-You can use the [editor on GitHub](https://github.com/parksooh/parksooh.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Business Jekyll Theme is a theme that is designed to be used for small and medium business. It is designed by a team from [Technext](https://github.com/technext/). The theme is then ported over by [Melvin Ch'ng](http://melvinchng.github.io) for Jekyll support. The original source code can be obainted from Technext's [repository](https://github.com/technext/office)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Unlike most Jekyll Themes, Business Jekyll Theme is not meant to be a single page theme. This theme is a package that you can use for your business website or promote certain project. I reorganized all the files and make it Jekyll friendly.
 
-### Markdown
+Big thanks to the creator of Office as this theme would not be possible without their hard work! You are always welcome to contribute to this repository to make it better!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Example Site**
+- [Business Jekyll Theme](https://business-jekyll-theme.github.io)
 
-```markdown
-Syntax highlighted code block
+**Example Site From The Original Creator**
+- [Office Template](http://demo.themewagon.com/preview/office-responsive-multipage-bootstrap-template)
 
-# Header 1
-## Header 2
-### Header 3
+## Feature
+- Responsive layout
+- CSS Framework - Bootstrap 3
+- Beautiful icons by Fontawesome
+- Clean, simple and elegant
+- Multi page Template
+- Well commented and structured coding
+- Easy to use
+- It's Free!
 
-- Bulleted
-- List
+## Note
+I removed certain features from the original theme packages as we do not really need it. I modified the original source code slightly to make it more mobile friendly and reusable. 
 
-1. Numbered
-2. List
+## Installation
+1. For first time user, you have to install Ruby and Rails. If you do not have Ruby on Rails installed, you may follow [this tutorial](http://melvinchng.github.io/rails/RubyOnRailsInstallation.html) that I wrote for Windows, Linux, and MacOS (installation videos are included).
+2. Install Jekyll by using the command `gem install jekyll`.
+3. Start your localhost server by using the command `jekyll serve`. Make sure that you are at the root directory of your folder before using this command.
+4. Your site should be accessible at `localhost:4000`.
+5. For additional information about Jekyll, refer to the [official website](http://jekyllrb.com/). 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/parksooh/parksooh.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Enjoy!
